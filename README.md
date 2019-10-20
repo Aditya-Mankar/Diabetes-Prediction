@@ -7,7 +7,7 @@ In this project, our objective is to predict whether the patient has diabetes or
 
 # **Screenshot**
 
-[](screenshot.jpg)
+[](https://github.com/Aditya-Mankar/Diabetes-Prediction/blob/master/screenshot.jpg)
 
 # Installation
 
