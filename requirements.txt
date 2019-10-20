@@ -10,4 +10,4 @@ Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
 scipy>=0.15.1
-pandas>=0.19
+
